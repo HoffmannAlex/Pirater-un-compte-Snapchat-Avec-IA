@@ -10,7 +10,7 @@
 
 **Ce projet est destiné strictement à des FINS ÉDUCATIVES et à des TESTS DE SÉCURITÉ AUTORISÉS.**
 
-**Ce programme a été développé à l’aide de l’API PASS REVELATOR. Pour en savoir plus sur la sécurité des comptes Snapchat et les techniques d’analyse de mots de passe, visitez :**  
+**Ce programme a été développé à l’aide de l’API PASS REVELATOR. Pour en savoir plus sur la sécurité des comptes Snapchat et les techniques de piratage de mots de passe, visitez :**  
 👉 https://www.passwordrevelator.net/fr/passdecoder  
 
 ![Logo PassDecoder](./PASSDECODER.png)
