@@ -1,4 +1,3 @@
-```markdown
 # Outil d’Évaluation de la Sécurité des Mots de Passe Snapchat | À des fins éducatives uniquement
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
